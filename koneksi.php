@@ -1,4 +1,5 @@
 <?php
+// meta data database
 $host = "localhost";
 $user = "root";
 $password = "";
